@@ -1,5 +1,5 @@
-###I need a job...
 It was too complicated to write a beutiful readme file.
+
 This will work for now
 <!--
 **GalteXx/Galtexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
