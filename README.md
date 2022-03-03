@@ -1,4 +1,4 @@
-It was too complicated to write a beutiful readme file.
+It was too complicated to write a beautiful readme file.
 
 This will work for now
 <!--
